@@ -1,0 +1,14 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/uenotsukasa/practice/nuxt-storybook-temp/pages/inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/uenotsukasa/practice/nuxt-storybook-temp/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
